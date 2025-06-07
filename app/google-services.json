@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156986429957",
+    "project_id": "latihanpraktikum11-fb351",
+    "storage_bucket": "latihanpraktikum11-fb351.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156986429957:android:e260a0e06d0b9e90b0c26c",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZj6_UP8lbaZQmNadMH9Bffq89Br1IRO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

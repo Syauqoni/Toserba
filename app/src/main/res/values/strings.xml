@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Latihan_Praktikum_11</string>
+    <string name="default_web_client_id">ISI_WEB_CLIENT_ID_DARI_FIREBASE</string>
+</resources>
